@@ -1,1 +1,1 @@
-The bartender at [[The Hanging Tree]].
+The bartender at [[The Hanging Tree|the Hanging Tree]].
