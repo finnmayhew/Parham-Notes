@@ -1,0 +1,3 @@
+Within [[The Khulu Kingdom|the Khulu Kingdom]].
+
+> A glass forest to the west of [[Buul]]. It mostly ranges from partially to completely covered in sand. But some regions are not and look like a forest snapshot in glass (sometimes including animals). Seen as an unlucky place so natives stay clear. There may be tribes of [[Orcs|Orc]] or [[The Desert of Nehru|Nehru]] peoples that use it as shelter. Some odd creatures (as well as otherworldly creatures) also lurk here.
