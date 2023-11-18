@@ -4,7 +4,7 @@ Met
 - [[Ishmael the Perpendicular]]
 - [[The Human]]
 
-Started at [[The Hanging Tree]], mid-to-late summer.
+Started at [[The Hanging Tree|the Hanging Tree]], mid-to-late summer.
 
 Ishmael promised to get gold from his hometown (where?) to hire people he met at the tavern to kidnap (back) [[An Important Official|an important official]].
 
