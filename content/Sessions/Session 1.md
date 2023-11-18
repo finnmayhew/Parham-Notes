@@ -1,5 +1,5 @@
 Met
-- [[Baron de Saffron Myrrh]]
+- [[Baron du Saffron Myrrh]]
 - [[Eidolon]]
 - [[Ishmael the Perpendicular]]
 - [[The Human]]

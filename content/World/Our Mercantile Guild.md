@@ -11,7 +11,7 @@ Tasked by our Great House to
 > 3. Establish diplomatic or mercantile connections with the Nhongan town
 
 Members:
-- [[Baron de Saffron Myrrh]]
+- [[Baron du Saffron Myrrh]]
 - [[Eidolon]]
 - [[Ishmael the Perpendicular]]
 - [[Nyxara Rast]]
