@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
         centerForce: 0.3, // how much force to use when trying to center the nodes
         linkDistance: 30, // how long should the links be by default?
         fontSize: 0.3, // what size should the node labels be?
-        opacityScale: 0.5, // how quickly do we fade out the labels when zooming out?
+        opacityScale: 2, // how quickly do we fade out the labels when zooming out?
       },
       globalGraph: {
         drag: true,
@@ -50,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
         centerForce: 0.3,
         linkDistance: 30,
         fontSize: 0.3,
-        opacityScale: 0.5,
+        opacityScale: 2,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
